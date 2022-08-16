@@ -1,6 +1,9 @@
 {
     "name": "Donate NFT2",
     "symbol": "DONFT",
+    "charity": "WFP",
+    "location": "Peru",
+    "date": "5 Mar 2022",
     "description": "donation certificate NFT",
     "seller_fee_basis_points": 5,
     "external_url": "",
