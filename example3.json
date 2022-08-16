@@ -1,6 +1,9 @@
 {
     "name": "Donate NFT6",
     "symbol": "DONFT",
+    "charity": "Green Umbrella",
+    "location": "South Korea",
+    "date": "15 Aug 2022",    
     "description": "donation certificate NFT",
     "seller_fee_basis_points": 5,
     "external_url": "",
